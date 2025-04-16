@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Robin Joseph!
 
-🚀 **Full-Stack Developer | React | TypeScript | Laravel | PostgreSQL**  
+🚀 **Full-Stack Developer | React | TypeScript | Laravel | PostgreSQL | MySQL **  
 
 ### 🔭 **Currently Working On:**  
 I’m building a **web portal for a logistics company** called **Sealink Logistics**. This project involves handling orders, customers, brokers, carriers, and more using modern web technologies.
