@@ -1,26 +1,41 @@
 ## Hi there 👋 I'm Robin Joseph!
 
-**Full-Stack Developer | React | TypeScript | Laravel | PostgreSQL | MySQL**
+**Full-Stack Developer | MERN | React | Node.js | MongoDB | TypeScript**
 
 ---
 
-### 🚀 Currently Working On
-I’m building a **web portal for a logistics company** called **Sealink Logistics**.  
-This project involves managing orders, customers, brokers, carriers, and more using modern web technologies.
+### Currently Working On
+I’m building a **microservices-based MERN Ecommerce platform**.  
+It includes:
+
+- **Queue-based order fulfillment**
+- **User authentication & login**
+- **Cart & checkout**
+- **Order management and processing**
+- **Scalable microservices architecture**
 
 ---
 
-### 📚 Currently Learning
+### Tech Stack
+| Layer | Technologies Used |
+|------|------------------|
+| Frontend | React, Tailwind CSS, DaisyUI, Zustand |
+| Backend | Node.js, Express.js, MongoDB, JWT, bcrypt |
+| Database | MongoDB Atlas |
+
+---
+
+### Currently Learning
 - **React + TypeScript** for scalable, type-safe frontend development  
-- **Laravel** for robust backend APIs  
-- **PostgreSQL** for efficient and reliable data management  
+- **Microservices architecture** for scalable systems  
+- **Message queues** for asynchronous order processing  
 
 ---
 
-### 🤝 Looking to Collaborate On
-I’m open to collaborating with developers, startups, and teams on projects involving:
+### Looking to Collaborate On
+I’m open to collaborating with developers and teams on projects involving:
 
-**React • Laravel • PostgreSQL • Node.js • REST APIs • Full-Stack Web Apps**
+**React • Node.js • MongoDB • Microservices • REST APIs • Full-Stack Web Apps**
 
 ---
 
@@ -31,4 +46,4 @@ I’m open to collaborating with developers, startups, and teams on projects inv
 ---
 
 ### 🎯 Fun Fact
-I enjoy solving complex backend problems and optimizing databases for high performance!
+I enjoy building scalable backend systems and optimizing performance with clean architecture!
