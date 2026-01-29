@@ -19,8 +19,8 @@ It includes:
 ### Tech Stack
 | Layer | Technologies Used |
 |------|------------------|
-| Frontend | React, Tailwind CSS, DaisyUI, Zustand |
-| Backend | Node.js, Express.js, MongoDB, JWT, bcrypt |
+| Frontend | React, Angular, Tailwind CSS, DaisyUI, Zustand |
+| Backend | Node.js, Express.js, JWT, bcrypt |
 | Database | MongoDB Atlas | PostgreSQL
 
 ---
