@@ -20,7 +20,7 @@ It includes:
 | Layer | Technologies Used |
 |------|------------------|
 | Frontend | React, Angular, Tailwind CSS, DaisyUI, Zustand |
-| Backend | Node.js, Express.js, JWT, bcrypt |
+| Backend | Node.js, Express.js, Laravel, JWT, bcrypt |
 | Database | MongoDB, PostgreSQL, MySQL |
 
 ---
