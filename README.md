@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Robin Joseph!
 
-**Full-Stack Developer | MERN | React | Node.js | MongoDB | PostgreSQL | TypeScript**
+**Full-Stack Developer | MERN | MEAN | React | Angular | Node.js | MongoDB | PostgreSQL | TypeScript**
 
 ---
 
@@ -35,7 +35,7 @@ It includes:
 ### Looking to Collaborate On
 I’m open to collaborating with developers and teams on projects involving:
 
-**React • Node.js • MongoDB • PostgreSQL • Microservices • REST APIs • Full-Stack Web Apps**
+**React • Angular • Node.js • MongoDB • PostgreSQL • Microservices • REST APIs • Full-Stack Web Apps**
 
 ---
 
