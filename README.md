@@ -21,7 +21,7 @@ It includes:
 |------|------------------|
 | Frontend | React, Angular, Tailwind CSS, DaisyUI, Zustand |
 | Backend | Node.js, Express.js, JWT, bcrypt |
-| Database | MongoDB Atlas | PostgreSQL |
+| Database | MongoDB Atlas, PostgreSQL |
 
 ---
 
