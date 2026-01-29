@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Robin Joseph!
 
-**Full-Stack Developer | MERN | MEAN | React | Angular | Node.js | MongoDB | PostgreSQL | TypeScript**
+**Full-Stack Developer | MERN | MEAN | Laravel**
 
 ---
 
