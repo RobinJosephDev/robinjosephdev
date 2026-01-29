@@ -21,12 +21,11 @@ It includes:
 |------|------------------|
 | Frontend | React, Angular, Tailwind CSS, DaisyUI, Zustand |
 | Backend | Node.js, Express.js, JWT, bcrypt |
-| Database | MongoDB Atlas | PostgreSQL
+| Database | MongoDB Atlas | PostgreSQL |
 
 ---
 
 ### Currently Learning
-- **React + TypeScript** for scalable, type-safe frontend development  
 - **Microservices architecture** for scalable systems  
 - **Message queues** for asynchronous order processing  
 
