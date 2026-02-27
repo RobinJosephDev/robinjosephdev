@@ -1,78 +1,107 @@
 ## Hi there 👋 I'm Robin Joseph
 
-**Full-Stack Developer | MERN | MEAN | Laravel**
+**Full-Stack Engineer \| Backend-Focused \| Django \| Node.js \|
+PostgreSQL \| AWS**
 
-I build **secure, scalable, and maintainable web applications** with strong backend architecture, clean frontend UX, and real-world features like role-based access control and data validation.
+I build secure, scalable, and production-ready web applications with
+strong backend architecture, clean frontend UX, and real-world features
+like RBAC, JWT authentication, caching, and API design.
 
----
+------------------------------------------------------------------------
 
 ## 🚀 Currently Working On
 
-### 📊 MERN CRM Application
-A production-style **Customer Relationship Management (CRM)** system built using the **MERN stack**, TypeScript, and Tailwind CSS.
+### 🏢 Django HR & Payroll Management System
 
-**Key features:**
-- Role-based access control (**Admin / Employee**)
-- JWT-based authentication (Register / Login / Logout)
-- Admin can assign leads to employees
-- Employees can:
-  - View assigned leads
-  - Edit leads
-  - Add and manage follow-ups
-- Full CRUD operations across modules
-- Search, sort, and filter-enabled tables
-- Modal-based UX for add/edit/delete actions
-- Confirmation popups for destructive actions
-- Frontend **input sanitization**
-- Backend + frontend **field validation**
-- Google Maps address autocomplete
+A production-style HR & Payroll Management System built using:
 
-🔗 **Repository:**  
-https://github.com/RobinJosephDev/mern-crm
+-   Django
+-   Django REST Framework
+-   PostgreSQL
+-   JWT Authentication
+-   Role-Based Access Control (Admin / HR / Employee)
 
----
+**Key Features:**
+
+-   Custom User Model (Email-based authentication)
+-   Role-based access control
+-   Department & Employee management
+-   Modular monolithic architecture
+-   Secure API-ready backend
+-   PostgreSQL relational data modeling
+-   Designed for payroll, attendance & leave modules
+
+Focused on clean architecture, maintainability, and scalable backend
+design.
+
+------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
-### Frontend
-- React
-- TypeScript
-- Tailwind CSS
-- Material UI
-- Axios
-- Google Maps API
-
 ### Backend
-- Node.js
-- Express.js
-- JWT Authentication
-- bcrypt
-- REST APIs
+
+-   Node.js
+-   Express.js
+-   Django
+-   Python
+-   REST API Architecture
+-   JWT Authentication
+-   RBAC
+-   Redis (Caching & Background Jobs)
+-   MVC Architecture
+-   Input validation & centralized error handling
+
+### Frontend
+
+-   React
+-   Next.js
+-   TypeScript
+-   Tailwind CSS
+-   Zustand
+-   Material UI
+-   Axios
 
 ### Database
-- MongoDB (Mongoose)
 
----
+-   MongoDB
+-   PostgreSQL
+-   MySQL
+-   Redis
+
+### Cloud & DevOps
+
+-   AWS (EC2, S3, Route 53)
+-   GitHub Actions (CI/CD)
+-   Docker (Basics)
+-   Git (Branching, PR workflow)
+
+------------------------------------------------------------------------
 
 ## 📚 Currently Learning
-- Advanced backend architecture patterns
-- Clean code & maintainability
-- Performance optimization in MERN apps
 
----
+-   Advanced system design patterns
+-   Django backend architecture
+-   Clean architecture principles
+-   Performance optimization & scalability
+
+------------------------------------------------------------------------
 
 ## 🤝 Looking to Collaborate On
-I’m open to collaborating on projects involving:
 
-**React • Angular • Node.js • MongoDB • PostgreSQL • REST APIs • Full-Stack Applications**
+Django • React • Node.js • PostgreSQL • MongoDB • REST APIs • Full-Stack
+Applications
 
----
+------------------------------------------------------------------------
 
-## 💬 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rjo17)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/robinjo1776)
+## 💬 Let's Connect
 
----
+[LinkedIn](https://www.linkedin.com/in/rjo17)\
+[GitHub](https://github.com/robinjo1776)
+
+------------------------------------------------------------------------
 
 ## 🎯 Fun Fact
-I enjoy building **CRM systems, admin dashboards, and backend-heavy applications** that solve real business problems 🚀
+
+I enjoy building backend-heavy systems, admin dashboards, CRM platforms,
+and business management tools that solve real-world operational problems
+🚀
