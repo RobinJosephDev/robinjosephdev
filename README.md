@@ -1,107 +1,143 @@
-## Hi there 👋 I'm Robin Joseph
+# Hi there 👋 I'm Robin Joseph
 
-**Full-Stack Engineer \| Backend-Focused \| Django \| Node.js \|
-PostgreSQL \| AWS**
+**Full-Stack Engineer | Backend-Focused | Python | Django | FastAPI | Node.js | PostgreSQL | AWS**
 
-I build secure, scalable, and production-ready web applications with
-strong backend architecture, clean frontend UX, and real-world features
-like RBAC, JWT authentication, caching, and API design.
+I build **secure, scalable, and production-ready web applications** with strong backend architecture, clean frontend UX, and real-world features like authentication, RBAC, API design, and database modeling.
 
-------------------------------------------------------------------------
+I enjoy designing systems that solve **real business problems**, especially tools like **ERP systems, CRM platforms, admin dashboards, and internal business tools**.
 
-## 🚀 Currently Working On
+---
 
-### 🏢 Django HR & Payroll Management System
+# 🚀 Current Projects
 
-A production-style HR & Payroll Management System built using:
+## 🏢 React + FastAPI ERP System
 
--   Django
--   Django REST Framework
--   PostgreSQL
--   JWT Authentication
--   Role-Based Access Control (Admin / HR / Employee)
+A **full-stack ERP system** built with:
 
-**Key Features:**
+* **React + TypeScript**
+* **FastAPI**
+* **PostgreSQL**
+* **SQLAlchemy**
+* **REST API architecture**
 
--   Custom User Model (Email-based authentication)
--   Role-based access control
--   Department & Employee management
--   Modular monolithic architecture
--   Secure API-ready backend
--   PostgreSQL relational data modeling
--   Designed for payroll, attendance & leave modules
+### Key Features
 
-Focused on clean architecture, maintainability, and scalable backend
-design.
+* Customer management module
+* FastAPI REST API backend
+* PostgreSQL relational database
+* TypeScript-based React frontend
+* API testing with Swagger UI
+* Modular backend architecture
 
-------------------------------------------------------------------------
+### What I Practiced
 
-## 🛠 Tech Stack
+* Designing RESTful APIs using FastAPI
+* PostgreSQL relational database modeling
+* SQLAlchemy ORM integration
+* Full-stack communication using Axios
+* Debugging database connection issues (URL encoding in connection strings)
 
-### Backend
+GitHub Repository
+https://github.com/RobinJosephDev/react-fastapi-erp
 
--   Node.js
--   Express.js
--   Django
--   Python
--   REST API Architecture
--   JWT Authentication
--   RBAC
--   Redis (Caching & Background Jobs)
--   MVC Architecture
--   Input validation & centralized error handling
+---
 
-### Frontend
+## 🏢 Django HR & Payroll Management System
 
--   React
--   Next.js
--   TypeScript
--   Tailwind CSS
--   Zustand
--   Material UI
--   Axios
+A **production-style HR & Payroll Management System** built using:
 
-### Database
+* Django
+* Django REST Framework
+* PostgreSQL
+* JWT Authentication
+* Role-Based Access Control (Admin / HR / Employee)
 
--   MongoDB
--   PostgreSQL
--   MySQL
--   Redis
+### Key Features
 
-### Cloud & DevOps
+* Custom User Model (Email-based authentication)
+* Role-based access control
+* Department & Employee management
+* Modular monolithic architecture
+* Secure API-ready backend
+* PostgreSQL relational data modeling
+* Designed for payroll, attendance & leave modules
 
--   AWS (EC2, S3, Route 53)
--   GitHub Actions (CI/CD)
--   Docker (Basics)
--   Git (Branching, PR workflow)
+Focused on **clean architecture, maintainability, and scalable backend design**.
 
-------------------------------------------------------------------------
+---
 
-## 📚 Currently Learning
+# 🛠 Tech Stack
 
--   Advanced system design patterns
--   Django backend architecture
--   Clean architecture principles
--   Performance optimization & scalability
+## Backend
 
-------------------------------------------------------------------------
+* Python
+* Django
+* FastAPI
+* Node.js
+* Express.js
+* REST API Architecture
+* JWT Authentication
+* RBAC
+* Redis (Caching & Background Jobs)
+* MVC Architecture
+* Input validation & centralized error handling
 
-## 🤝 Looking to Collaborate On
+## Frontend
 
-Django • React • Node.js • PostgreSQL • MongoDB • REST APIs • Full-Stack
-Applications
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Zustand
+* Material UI
+* Axios
 
-------------------------------------------------------------------------
+## Database
 
-## 💬 Let's Connect
+* PostgreSQL
+* MongoDB
+* MySQL
+* Redis
 
-[LinkedIn](https://www.linkedin.com/in/rjo17)\
-[GitHub](https://github.com/robinjo1776)
+## Cloud & DevOps
 
-------------------------------------------------------------------------
+* AWS (EC2, S3, Route 53)
+* GitHub Actions (CI/CD)
+* Docker (Basics)
+* Git (Branching, PR workflow)
 
-## 🎯 Fun Fact
+---
 
-I enjoy building backend-heavy systems, admin dashboards, CRM platforms,
-and business management tools that solve real-world operational problems
-🚀
+# 📚 Currently Learning
+
+* Advanced backend architecture patterns
+* System design fundamentals
+* FastAPI & Django performance optimization
+* Scalable API design
+* Clean architecture principles
+
+---
+
+# 🤝 Looking to Collaborate On
+
+* Python backend systems
+* Django / FastAPI applications
+* React full-stack projects
+* REST API platforms
+* Business management systems (ERP / CRM)
+
+---
+
+# 💬 Let's Connect
+
+LinkedIn
+https://linkedin.com
+
+GitHub
+https://github.com/RobinJosephDev
+
+---
+
+# 🎯 Fun Fact
+
+I enjoy building **backend-heavy systems, admin dashboards, CRM platforms, and business management tools** that solve real operational problems 🚀
